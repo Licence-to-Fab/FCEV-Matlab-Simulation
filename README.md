@@ -7,3 +7,7 @@ https://www.mathworks.com/help/autoblks/ug/explore-the-fuel-cell-electric-vehicl
 
 https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9875536
 
+Open the FCEV example by double clicking on FCEV/FCEV/FCEV.prj, then click on FCEvReferenceApplication in the top bar.
+
+![](/images/start.png)
+
