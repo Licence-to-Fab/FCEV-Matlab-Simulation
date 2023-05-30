@@ -1,4 +1,4 @@
-# FCEV-Matlab-Simulation
+# FCEV Matlab Simulation
 Combining and evaluating possible FCEV simulation models from papers and across the web.
 
 https://github.com/mathworks/Fuel-Cell-Vehicle-Model-Simscape
