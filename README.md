@@ -12,4 +12,4 @@ This branch starts with the FCEV Matlab Refence Application seen here (https://w
 NOTE
 - other projects include **Vehicle Config** which will become necessary later
 
-**this has only been tested on R2022a**
+**this has only been tested on R2022a, it did NOT work in 2023a**
