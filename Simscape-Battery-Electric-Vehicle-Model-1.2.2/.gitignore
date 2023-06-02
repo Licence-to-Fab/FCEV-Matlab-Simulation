@@ -1,0 +1,17 @@
+# .gitignore
+#
+# Copyright 2020 The MathWorks, Inc.
+
+stash/
+
+*.pdf
+*.pptx
+
+*.asv
+*.mldatx
+*.slxc
+
+sfprj/
+slprj/
+
+coverageR2022a/
