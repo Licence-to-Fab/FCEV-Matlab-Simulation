@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="Scripts/ssc_fuel_cell_parameters.m" Name="ssc_fuel_cell_parameters">
+    <Extension Value="3a27a993-7713-48a9-84d1-8ac02c9f1326" Name="StartUpPrev"/>
+</Info>
